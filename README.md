@@ -1,4 +1,4 @@
-# Proper-network-Architecture-For-Small-and-Medium-size-Companies.
+# Proper-network-Architecture-For-SMEs.
 it is a collection of practical IT architecture Principals and best practices design for small and medium size companies
 
 # Secure Network Architecture Framework for SMEs
