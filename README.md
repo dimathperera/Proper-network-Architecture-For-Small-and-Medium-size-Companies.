@@ -29,31 +29,9 @@ All project documentation is organized in the `/docs` folder:
 - **[Risk Assessment](docs/09-RISK_ASSESSMENT.md)** - Risk management
 - **[Success Criteria](docs/10-SUCCESS_CRITERIA.md)** - How we measure success
 
-## 🏗️ Technical Documentation
 
-- **[Network Architecture](technical/NETWORK_ARCHITECTURE.md)** - Technical design
-- **[ISO 27001 Controls](technical/ISO27001_CONTROLS.md)** - Security mapping
-- **[SFIA Framework](technical/SFIA_FRAMEWORK.md)** - Skills requirements
+- 
 
-## 💼 Business Documentation
-
-- **[Market Analysis](business/MARKET_ANALYSIS.md)** - Market opportunity
-- **[Business Model](business/BUSINESS_MODEL.md)** - Revenue streams
-- **[Cost Analysis](business/COST_ANALYSIS.md)** - Budget & ROI
-
-## 🔬 Research
-
-- **[Breach Analysis](research/BREACH_ANALYSIS.md)** - Case studies
-- **[Framework Comparison](research/FRAMEWORK_COMPARISON.md)** - Competitive analysis
-- **[SME Interviews](research/SME_INTERVIEWS.md)** - Primary research
-
-## 📊 Key Statistics
-
-- **Project Duration:** 8 months (HND)
-- **Deliverables:** 18 specific outputs
-- **Phases:** 4 structured phases
-- **Cost Savings:** 60-75% vs. enterprise solutions
-- **Standards:** ISO 27001, SFIA, NIST, GDPR
 
 ## 🚀 Getting Started
 
@@ -64,7 +42,7 @@ All project documentation is organized in the `/docs` folder:
 
 ## 👥 Project Team
 
-**Lead:** PERERA LDS  
+**Lead:**  
 **Program:** HND Cybersecurity & Network Architecture  
 **Institution:** [Your Institution]  
 
