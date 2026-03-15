@@ -1,7 +1,7 @@
 # Proper-network-Architecture-For-Small-and-Medium-size-Companies.
 it is a collection of practical IT architecture Principals and best practices design for small and medium size companies
 
-# Secure Network Architecture Framework for SMEs in Sri Lanka
+# Secure Network Architecture Framework for SMEs
 
 **HND Cybersecurity & Network Architecture Final Year Project**
 
