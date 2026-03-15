@@ -25,7 +25,6 @@ All project documentation is organized in the `/docs` folder:
 - **[Solution Overview](docs/03-SOLUTION_OVERVIEW.md)** - Technical approach
 - **[Academic Alignment](docs/04-ACADEMIC_ALIGNMENT.md)** - HND integration
 - **[Deliverables](docs/05-SCOPE_DELIVERABLES.md)** - 18 key outputs
-- **[Timeline](docs/07-TIMELINE.md)** - 8-month project plan
 - **[Risk Assessment](docs/09-RISK_ASSESSMENT.md)** - Risk management
 - **[Success Criteria](docs/10-SUCCESS_CRITERIA.md)** - How we measure success
 
